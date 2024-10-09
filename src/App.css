@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: navy;
+  padding: 20px;
+  color: white;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+button {
+  cursor: pointer;
+}
+
+.easy-task, .hard-task {
+  margin-bottom: 50px;
+}
+
+.spinner-border {
+  border-color: blue transparent blue transparent;
+}
